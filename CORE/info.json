@@ -3,9 +3,10 @@
   "symbol": "CRX",
   "type": "BEP20",
   "decimals": 18,
-  "description": "CORE (CRX) is a premium, utility-focused digital asset designed for a controlled ecosystem with strong business integration.",
+  "description": "CORE (CRX) is a premium, utility-focused digital asset designed for a controlled ecosystem with strong project integration.",
   "website": "https://x.com/COREX_COR",
   "explorer": "https://bscscan.com/token/0xedFf50ad54b95c2C97243d3b5e4C448FFDbE0Bf7",
   "status": "active",
   "id": "0xedFf50ad54b95c2C97243d3b5e4C448FFDbE0Bf7"
+
 }
